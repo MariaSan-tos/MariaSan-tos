@@ -1,4 +1,4 @@
-Hello, I'm Maria and I'm starting on Github :D
+- Hello, I'm Maria and I'm starting on Github 😎
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaSan-tos)](https://github.com/anuraghazra/github-readme-stats)
 
