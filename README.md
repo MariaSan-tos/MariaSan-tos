@@ -1,6 +1,6 @@
 Hello, I'm Maria and I'm starting on Github :D
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MariaSan-tos=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MariaSan-tos=anuraghazra)](https://github.com/MariaSan-tos/github-readme-stats)
 
 - Currently interrest in learning Forge Modding for Minecraft :D
 
