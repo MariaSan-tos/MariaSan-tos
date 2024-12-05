@@ -15,7 +15,7 @@ new Person({
 
 ```cmd
 D:\lab\MariaSan-tos> node index.js
-Hi, my name is Maria Santos, I'm a Junior Full Stack Developer from Brazil.
+Hi, my name is Maria Santos, I'm a Junior Full Stack Developer from Brazil. Currently employed!
 ```
 
 <h3 align="center">🔥Streak Stats🔥</h3>
