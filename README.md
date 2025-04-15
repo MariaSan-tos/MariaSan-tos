@@ -15,7 +15,7 @@ new Person({
 
 ```cmd
 D:\lab\MariaSan-tos> node index.js
-Hi, my name is Maria Santos, I'm a Junior Full Stack Developer from Brazil. Currently employed!
+Hi, my name is Maria Santos, I'm currently interning at Jonhson & Johnson!
 ```
 
 <h3 align="center">🔥Streak Stats🔥</h3>
@@ -34,9 +34,8 @@ Hi, my name is Maria Santos, I'm a Junior Full Stack Developer from Brazil. Curr
 
 ```text
 
-- Currently interrest in learning CyberSecurity and Developing in MERN!
 - Working on building a Virtual Machine from 0 as a project!
-- I’m looking to collaborate on new interesting Projects!
+- Using a Artificial Inteligence!
 
 
 💬 Programming Languages | USE CHART: 
