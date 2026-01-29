@@ -34,8 +34,7 @@ Hi, my name is Maria Santos, I'm currently interning at Jonhson & Johnson!
 
 ```text
 
-- Working on building a Virtual Machine from 0 as a project!
-- Using a Artificial Inteligence!
+- Working on Projects involving Machine Learning and Data Analytics!
 
 
 💬 Programming Languages | USE CHART: 
